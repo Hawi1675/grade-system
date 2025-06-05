@@ -1,1 +1,1 @@
-# grade-system
+# Grading system example
